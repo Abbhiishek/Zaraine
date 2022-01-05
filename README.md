@@ -1,0 +1,2 @@
+# Zaraine
+Another Discord Bot !
